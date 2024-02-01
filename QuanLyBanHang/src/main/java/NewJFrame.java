@@ -14,7 +14,7 @@ public class NewJFrame extends javax.swing.JFrame {
      */
     public NewJFrame() {
         initComponents();
-         áhd
+        System.out.println("NewJFrame.<init>()");
     }
 
     /**
